@@ -26,25 +26,5 @@
 5.睡觉前预习明天所学内容
 
 ###学习时间安排表###
-        <table>
-        <tr>
-        <td></td>
-        <td>周日</td>
-        <td>周一</td>
-        <td>周二</td>
-        <td>周三</td>
-        <td>周四</td>
-        <td>周五</td>
-        <td>周六</td>
-        </td>
-        <tr>
-        <td>上午</td>
-        <td>封训</td>
-        <td>学习</td>
-        <td>学习</td>
-        <td>学习</td>
-        <td>学习</td>
-        <td>学习</td>
-        <td>学习</td>
-        </tr>
-        </table>
+      
+     
