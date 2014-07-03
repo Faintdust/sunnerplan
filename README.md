@@ -27,25 +27,24 @@
 
 ###学习时间安排表###
         <table>
-        <td>
-        <tr></tr>
-        <tr>周日</tr>
-        <tr>周一</tr>
-        <tr>周二</tr>
-        <tr>周三</tr>
-        <tr>周四</tr>
-        <tr>周五</tr>
-        <tr>周六</tr>
+        <tr>
+        <td></td>
+        <td>周日</td>
+        <td>周一</td>
+        <td>周二</td>
+        <td>周三</td>
+        <td>周四</td>
+        <td>周五</td>
+        <td>周六</td>
         </td>
-        <td>
-        <tr>上午</tr>
-        <tr>封训</tr>
-        <tr>学习</tr>
-        <tr>学习</tr>
-        <tr>学习</tr>
-        <tr>学习</tr>
-        <tr>学习</tr>
-        <tr>学习</tr>
-        </td>
+        <tr>
+        <td>上午</td>
+        <td>封训</td>
+        <td>学习</td>
+        <td>学习</td>
+        <td>学习</td>
+        <td>学习</td>
+        <td>学习</td>
+        <td>学习</td>
+        </tr>
         </table>
-        
